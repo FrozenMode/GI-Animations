@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Lady_Sword_Clorinde_ElementalBurst_Body
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.35
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.48333332
+        value: 0.3
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.51666665
+        value: 0.59091187
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.68333334
+        value: 0.5
+        inSlope: -1.9835315
+        outSlope: -1.9835315
+      - serializedVersion: 2
+        time: 0.7
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Parameters.widthMultiplier
+    path: LightningMain
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.21666667
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.35
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.41666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.43333334
+        value: 0.024244547
+        inSlope: 1.9395632
+        outSlope: 1.9395632
+      - serializedVersion: 2
+        time: 0.46666667
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaScale
+    path: LightningMain
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.2
+        value: 5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.26666668
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.55
+        value: 5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 4.9118176
+        inSlope: -4.0553126
+        outSlope: -4.0553126
+      - serializedVersion: 2
+        time: 0.6
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._ColorScale
+    path: LightningMain
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.56666666
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: LightningMain
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings: {}
+  m_Events: []

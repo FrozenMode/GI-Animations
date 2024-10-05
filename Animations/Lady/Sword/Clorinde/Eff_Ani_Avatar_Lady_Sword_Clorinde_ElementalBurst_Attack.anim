@@ -1,0 +1,373 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Lady_Sword_Clorinde_ElementalBurst_Attack
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.6666667
+        value: {x: 0, y: 0, z: 12}
+        inSlope: {x: 0, y: 0, z: -107.797325}
+        outSlope: {x: 0, y: 0, z: -107.797325}
+      - serializedVersion: 2
+        time: 0.76666665
+        value: {x: 0, y: 0, z: 2.5066764}
+        inSlope: {x: 0, y: 0, z: -69.68773}
+        outSlope: {x: 0, y: 0, z: -69.68773}
+      - serializedVersion: 2
+        time: 0.8333333
+        value: {x: 0, y: 0, z: -0.1}
+        inSlope: {x: 0, y: 0, z: -3.0096757}
+        outSlope: {x: 0, y: 0, z: -3.0096757}
+      - serializedVersion: 2
+        time: 1.0666667
+        value: {x: 0, y: 0, z: -0.4009679}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: RushAttack
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0.8, z: 3.23}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.7
+        value: {x: 0, y: 0.8, z: 3.23}
+        inSlope: {x: 0, y: 0, z: -40.96547}
+        outSlope: {x: 0, y: 0, z: -40.96547}
+      - serializedVersion: 2
+        time: 0.9
+        value: {x: 0, y: 0.8, z: -2.2579079}
+        inSlope: {x: 0, y: 0, z: -13.084749}
+        outSlope: {x: 0, y: 0, z: -13.084749}
+      - serializedVersion: 2
+        time: 0.98333335
+        value: {x: 0, y: 0.8, z: -2.809102}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: MeshLightning
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.7
+        value: {x: 0.2, y: 0.37, z: 0.2}
+        inSlope: {x: 0, y: 6.193441, z: 0}
+        outSlope: {x: 0, y: 6.193441, z: 0}
+      - serializedVersion: 2
+        time: 0.73333335
+        value: {x: 0.5, y: 0.55567884, z: 0.5}
+        inSlope: {x: 0, y: 2.52, z: 0}
+        outSlope: {x: 0, y: 2.52, z: 0}
+      - serializedVersion: 2
+        time: 0.95
+        value: {x: 0.5, y: 1, z: 0.5}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 1.1166667
+        value: {x: 0.3, y: 1, z: 0.3}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: MeshLightning
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.76666665
+        value: 0.66722345
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.2
+        value: 0.21800792
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BrightnessColor.r
+    path: RushAttack/MeshCrackMain
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.76666665
+        value: 0.6574395
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.2
+        value: 0.2134515
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BrightnessColor.g
+    path: RushAttack/MeshCrackMain
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.76666665
+        value: 0.9411765
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.2
+        value: 0.34558818
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BrightnessColor.b
+    path: RushAttack/MeshCrackMain
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.76666665
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BrightnessColor.a
+    path: RushAttack/MeshCrackMain
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 1.002
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.68333334
+        value: 0.25694162
+        inSlope: -4.0477185
+        outSlope: -4.0477185
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.054555662
+        inSlope: 0.8219539
+        outSlope: 0.8219539
+      - serializedVersion: 2
+        time: 1.1333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Dissolve_Clip
+    path: RushAttack/MeshCrackMain
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.6333333
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.8833333
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.93333334
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 1.0333333
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 1.1333333
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: MeshLightning/Helix001
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0
+        inSlope: ∞
+        outSlope: 230.76923
+      - serializedVersion: 2
+        time: 1.1
+        value: 100
+        inSlope: 230.76923
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: blendShape.Helix002
+    path: MeshLightning/Helix001
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.3027681
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.71666664
+        value: 0.38235292
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Spec_Color.r
+    path: MeshLightning/Helix001
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.3217694
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.71666664
+        value: 0.43772808
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Spec_Color.g
+    path: MeshLightning/Helix001
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5147058
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.71666664
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Spec_Color.b
+    path: MeshLightning/Helix001
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.71666664
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Spec_Color.a
+    path: MeshLightning/Helix001
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings: {}
+  m_Events: []
