@@ -1,0 +1,1215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Lady_Pole_Arlecchino_ElementalBurst_Wing
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.76666665
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.78333336
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 1.6833333
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 1.9
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 1.9166666
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 3.3666666
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 3.3833334
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing01
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 0.759
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.25
+        value: 0.33088234
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 0.759
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3
+        value: 0.759
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.3833334
+        value: 0.33088234
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.r
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing01
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.3833334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.g
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing01
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.3833334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.b
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing01
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.3833334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.a
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing01
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -8
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6333333
+        value: -8
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.65
+        value: 8
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._RotationAngle
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing01
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.6333333
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.7333333
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.8333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.6166666
+        value: 5
+        inSlope: 5.290169
+        outSlope: 5.290169
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._VertexAnimValue
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing01
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.6333333
+        value: 0.01
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.81666666
+        value: 0.023209628
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.9333333
+        value: 0.01
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._VertexNormalScale
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing01
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 15
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 15
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 17
+        inSlope: 28.235296
+        outSlope: 28.235296
+      - serializedVersion: 2
+        time: 0.81666666
+        value: 25
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.9166667
+        value: 18
+        inSlope: -39.999992
+        outSlope: -39.999992
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 15
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 18
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.85
+        value: 15
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._ColorBrightness
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 0.616
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 0.485294
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.81666666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.9166667
+        value: 0.797
+        inSlope: -2.0588236
+        outSlope: -2.0588236
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.485294
+        inSlope: -0.9239217
+        outSlope: -0.9239217
+      - serializedVersion: 2
+        time: 1.5166667
+        value: 0.24264699
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 0.69358855
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.85
+        value: 0.485294
+        inSlope: -0.46400127
+        outSlope: -0.46400127
+      - serializedVersion: 2
+        time: 3.1666667
+        value: 0.24264699
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.r
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 0.21053946
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 0.1658662
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.81666666
+        value: 0.42555776
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.9166667
+        value: 0.2724025
+        inSlope: -1.038766
+        outSlope: -1.038766
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.1658662
+        inSlope: -0.33756155
+        outSlope: -0.33756155
+      - serializedVersion: 2
+        time: 1.5166667
+        value: 0.06986559
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 0.27539986
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.85
+        value: 0.1658662
+        inSlope: -0.1606227
+        outSlope: -0.1606227
+      - serializedVersion: 2
+        time: 3.1666667
+        value: 0.06986559
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.g
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 0.117764644
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 0.09277677
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.81666666
+        value: 0.2941176
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.9166667
+        value: 0.15236747
+        inSlope: -0.54038906
+        outSlope: -0.54038906
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.09277677
+        inSlope: -0.20339432
+        outSlope: -0.20339432
+      - serializedVersion: 2
+        time: 1.5166667
+        value: 0.03033088
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 0.15536484
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.85
+        value: 0.09277677
+        inSlope: -0.13892661
+        outSlope: -0.13892661
+      - serializedVersion: 2
+        time: 3.1666667
+        value: 0.03033088
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.b
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.75
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.81666666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.9166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.5166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.85
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.1666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.a
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -8
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6333333
+        value: -8
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.65
+        value: 8
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._RotationAngle
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.6333333
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.7333333
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.8333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.6166666
+        value: 5
+        inSlope: 5.290169
+        outSlope: 5.290169
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._VertexAnimValue
+    path: SkillObj_Arlecchino_Wing_Model/SkillObj_Arlecchino_Wing
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.26666668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.95
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.x
+    path: Waypoint/Trail01_Blade
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.26666668
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.95
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.y
+    path: Waypoint/Trail01_Blade
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.4039409
+        inSlope: -1.1278032
+        outSlope: -1.1278032
+      - serializedVersion: 2
+        time: 0.26666668
+        value: 0.9229683
+        inSlope: -1.5022414
+        outSlope: -1.5022414
+      - serializedVersion: 2
+        time: 0.6333333
+        value: 0.2556959
+        inSlope: -1.9997358
+        outSlope: -1.9997358
+      - serializedVersion: 2
+        time: 1.1333333
+        value: -0.37698433
+        inSlope: -1.3087178
+        outSlope: -1.3087178
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.z
+    path: Waypoint/Trail01_Blade
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.26666668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.95
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.w
+    path: Waypoint/Trail01_Blade
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.5333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.r
+    path: Waypoint/Trail01_Blade
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.5333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.g
+    path: Waypoint/Trail01_Blade
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.5333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.b
+    path: Waypoint/Trail01_Blade
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.709
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.9
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.a
+    path: Waypoint/Trail01_Blade
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.31666666
+        value: 0.021636486
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.56666666
+        value: 6.9925046
+        inSlope: 0.06662665
+        outSlope: 0.06662665
+      - serializedVersion: 2
+        time: 0.76666665
+        value: 7
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.1333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaBrightness
+    path: Waypoint/Trail01_IllusoryTex
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.r
+    path: Waypoint/Trail01_IllusoryTex
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.g
+    path: Waypoint/Trail01_IllusoryTex
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.b
+    path: Waypoint/Trail01_IllusoryTex
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.a
+    path: Waypoint/Trail01_IllusoryTex
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.25
+        value: -1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.73333335
+        value: -1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.2166667
+        value: -1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTexture_ST.x
+    path: Waypoint/Trail01_IllusoryTex
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.25
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.73333335
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.2166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTexture_ST.y
+    path: Waypoint/Trail01_IllusoryTex
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.059214592
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.37482053
+        inSlope: 0.96276003
+        outSlope: 0.96276003
+      - serializedVersion: 2
+        time: 0.73333335
+        value: 0.76523864
+        inSlope: 0.7807573
+        outSlope: 0.7807573
+      - serializedVersion: 2
+        time: 1.2166667
+        value: 1.1295526
+        inSlope: 0.5511802
+        outSlope: 0.5511802
+      - serializedVersion: 2
+        time: 1.75
+        value: 1.3256052
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTexture_ST.z
+    path: Waypoint/Trail01_IllusoryTex
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.73333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.2166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTexture_ST.w
+    path: Waypoint/Trail01_IllusoryTex
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.73333335
+        value: 0.64227253
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.4166666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaBrightness
+    path: Waypoint/Trail01_Light
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.18333334
+        value: 1.7981502
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.5166667
+        value: 1.7981502
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTexture02_ST.x
+    path: Waypoint/Trail01_Light
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.18333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.5166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTexture02_ST.y
+    path: Waypoint/Trail01_Light
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.513622
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.18333334
+        value: 1.1181837
+        inSlope: -2.7451909
+        outSlope: -2.7451909
+      - serializedVersion: 2
+        time: 0.6666667
+        value: -0.29465395
+        inSlope: -3.7737658
+        outSlope: -3.7737658
+      - serializedVersion: 2
+        time: 1.5166667
+        value: -1.684304
+        inSlope: -1.439675
+        outSlope: -1.439675
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTexture02_ST.z
+    path: Waypoint/Trail01_Light
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.18333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.5166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTexture02_ST.w
+    path: Waypoint/Trail01_Light
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.016666668
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: SkillObj_Arlecchino_Wing_Model
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings: {}
+  m_Events: []

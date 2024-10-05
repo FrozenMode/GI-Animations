@@ -1,0 +1,827 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Lady_Pole_Shougun_ElementalBurst
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.07
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskAlphaNoiseScaleShineTex
+    path: 00_BladeTrail
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.33333334
+        value: -2.93
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskEgdePower
+    path: 00_BladeTrail
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 2
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.36666667
+        value: 2
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 2
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.x
+    path: 00_BladeTrail
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.y
+    path: 00_BladeTrail
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.z
+    path: 00_BladeTrail
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.62474304
+        inSlope: -2.2489002
+        outSlope: -2.2489002
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 0.35
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.w
+    path: 00_BladeTrail
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 10
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.45
+        value: 10
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaBrightness
+    path: 00_BladeTrail/00_BladeTrarlStreamer
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 2
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 2
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.45
+        value: 2
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.x
+    path: 00_BladeTrail/00_BladeTrarlStreamer
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.45
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.y
+    path: 00_BladeTrail/00_BladeTrarlStreamer
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.33333334
+        value: -0.09
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.38333333
+        value: -0.09
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.45
+        value: -0.09
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.z
+    path: 00_BladeTrail/00_BladeTrarlStreamer
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.6455957
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 0.13637939
+        inSlope: -16.098423
+        outSlope: -16.098423
+      - serializedVersion: 2
+        time: 0.45
+        value: -0.43
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.w
+    path: 00_BladeTrail/00_BladeTrarlStreamer
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.4
+        value: 0.9495163
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.46666667
+        value: 0.9495163
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.48333332
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.55
+        value: 0.9495163
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.8582535
+        inSlope: -2.7378848
+        outSlope: -2.7378848
+      - serializedVersion: 2
+        time: 0.68333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaBrightness
+    path: 00_BladeTrail/00_Lightning01
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.4
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.41666666
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.43333334
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.45
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.46666667
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.48333332
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.51666665
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.55
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.56666666
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 0.9999872
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.x
+    path: 00_BladeTrail/00_Lightning01
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.4
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.41666666
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.43333334
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.45
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.46666667
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.48333332
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.51666665
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.55
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.56666666
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.y
+    path: 00_BladeTrail/00_Lightning01
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.4
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.41666666
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.43333334
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.45
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.46666667
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.48333332
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.5
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.51666665
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.55
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.56666666
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.z
+    path: 00_BladeTrail/00_Lightning01
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.4
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.41666666
+        value: 0.5
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.43333334
+        value: 0.75
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.45
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.46666667
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.48333332
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.5
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.51666665
+        value: 0.75
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.53333336
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.55
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.56666666
+        value: 0.25
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 0.5
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.75
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.w
+    path: 00_BladeTrail/00_Lightning01
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.41666666
+        value: 5
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.43333334
+        value: 15
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.46666667
+        value: 15
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.5833333
+        value: 5
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._ColorBrightness
+    path: 00_BladeTrail/00_Lightning01
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 0.55882335
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.4
+        value: 0.55882335
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.55
+        value: 0.55882335
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.55882335
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.r
+    path: 00_BladeTrail/00_Lightning01
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 0.44852924
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.4
+        value: 0.44852924
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.55
+        value: 0.44852924
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.44852924
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.g
+    path: 00_BladeTrail/00_Lightning01
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.4
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.55
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.b
+    path: 00_BladeTrail/00_Lightning01
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.4
+        value: 0.715
+        inSlope: 1.2239994
+        outSlope: 1.2239994
+      - serializedVersion: 2
+        time: 0.55
+        value: 0.766
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.a
+    path: 00_BladeTrail/00_Lightning01
+    classID: 120
+    script: {fileID: 0}
+    flags: 0
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings: {}
+  m_Events: []

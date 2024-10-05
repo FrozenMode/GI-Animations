@@ -1,0 +1,453 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Lady_Pole_Shougun_Elf_Blink
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: ∞, y: ∞, z: ∞}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.38333333
+        value: {x: 0.983463, y: 0.983463, z: 0.983463}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.73333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 1.0666667
+        value: {x: 0.9741172, y: 0.9741172, z: 0.9741172}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 1.6166667
+        value: {x: 0.9636032, y: 0.9636032, z: 0.9636032}
+        inSlope: {x: 2.629617E-08, y: 2.629617E-08, z: 2.629617E-08}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 1.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 2.0833333
+        value: {x: 0.95729476, y: 0.95729476, z: 0.95729476}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 2.2666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 2.4166667
+        value: {x: 0.9533228, y: 0.9533228, z: 0.9533228}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 2.55
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 2.65
+        value: {x: 0.9495845, y: 0.9495845, z: 0.9495845}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 2.7666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 2.85
+        value: {x: 0.9495845, y: 0.9495845, z: 0.9495845}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 2.9333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 3
+        value: {x: 0.9495845, y: 0.9495845, z: 0.9495845}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Root/Top_Symbol
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 79.917694
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 27.038214
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.73333335
+        value: 93.742325
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 21.235605
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 111.94169
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6166667
+        value: 20.02241
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.8666667
+        value: 106.72634
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.0833333
+        value: 17.22526
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 104.002525
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.4166667
+        value: 15.489359
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.55
+        value: 99.00617
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.65
+        value: 13.8827305
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.7666667
+        value: 95.56953
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.85
+        value: 13.8827305
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.9333334
+        value: 93.96576
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3
+        value: 13.8827305
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._ColorBrightness
+    path: Root/Top_Symbol/Eff_Model_Shougun_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 6.984892
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 1.7987385
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.73333335
+        value: 8.766214
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 1.7943211
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 10.840612
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6166667
+        value: 1.8371983
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.8666667
+        value: 10.746233
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.0833333
+        value: 1.753519
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 10.253801
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.4166667
+        value: 1.8070168
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.55
+        value: 9.664848
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.65
+        value: 1.8295584
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.7666667
+        value: 8.989037
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.85
+        value: 1.8295584
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.9333334
+        value: 8.343163
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3
+        value: 1.8295584
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2259093627
+    path: Root/Top_Symbol/00_Symbol
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 8
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.38333333
+        value: 3.8094482
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.73333335
+        value: 8.608336
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 3.8498096
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 9.104314
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6166667
+        value: 3.8498096
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.8666667
+        value: 9.571111
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.0833333
+        value: 3.8498096
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.2666667
+        value: 9.165451
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.4166667
+        value: 3.8498096
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.55
+        value: 8.962173
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.65
+        value: 3.8498096
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.7666667
+        value: 8.664032
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.85
+        value: 3.8498096
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.9333334
+        value: 8.433655
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3
+        value: 3.8498096
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2259093627
+    path: Root/Top_Symbol/00_BlurDark
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.4763756
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.0333333
+        value: 1.4763756
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2406598741
+    path: Root/Top_Symbol/00_Symbol
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 2
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 543183247
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2325527210
+      attribute: 2259093627
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 342505000
+      attribute: 2259093627
+      script: {fileID: 0}
+      classID: 199
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1630449862
+      attribute: 2259093627
+      script: {fileID: 0}
+      classID: 199
+      customType: 22
+      isPPtrCurve: 0
+    - path: 342505000
+      attribute: 2406598741
+      script: {fileID: 0}
+      classID: 199
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 3
+    m_StartTime: 0
+    m_StopTime: 3
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_Events: []

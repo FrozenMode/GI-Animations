@@ -1,0 +1,1412 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Lady_Pole_Shougun_Show_SkinLayer
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.7
+        value: 0.672008
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 0.672008
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1320326464
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.7
+        value: 0.5147058
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 0.5147058
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1588761920
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.7
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1857197376
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 20
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.7
+        value: 30
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.5
+        value: 30
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 30
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2334516028
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.7
+        value: 12.958962
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.766667
+        value: 13
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 0.1459961
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2256264208
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.8
+        value: 0.58825403
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2
+        value: 0.25628313
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1666667
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.3666666
+        value: 0.02026689
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.6333334
+        value: 0.10418309
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.7666667
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.0666666
+        value: 0.10646573
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.2333333
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.4333334
+        value: 0.097884595
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.7333333
+        value: -0.016900577
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.8666666
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.1666665
+        value: 0.4262508
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.3333335
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.5333333
+        value: 0.014057457
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.766667
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.9666667
+        value: 0.4262508
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.133333
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.3333335
+        value: 0.06373282
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.633333
+        value: 0.10418309
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.766667
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.0666666
+        value: 0.081628025
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.233333
+        value: 0.8417213
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.5
+        value: 0.12819868
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.766667
+        value: 0.38843375
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 0.004362285
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2241633746
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1308250156
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1576685612
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1845121068
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.8
+        value: 0.58825403
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2
+        value: 0.25628313
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1666667
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.3666666
+        value: 0.02026689
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.6333334
+        value: 0.10418309
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.7666667
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.0666666
+        value: 0.10646573
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.2333333
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.4333334
+        value: 0.097884595
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.7333333
+        value: -0.016900577
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.8666666
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.1666665
+        value: 0.4262508
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.3333335
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.5333333
+        value: 0.014057457
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.766667
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.9666667
+        value: 0.4262508
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.133333
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.3333335
+        value: 0.06373282
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.633333
+        value: 0.10418309
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.766667
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.0666666
+        value: 0.081628025
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.233333
+        value: 0.8417213
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.5
+        value: 0.12819868
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.766667
+        value: 0.38843375
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 0.004362285
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2241633746
+    path: Face
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.8
+        value: 0.58825403
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2
+        value: 0.25628313
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1666667
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.3666666
+        value: 0.02026689
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.6333334
+        value: 0.10418309
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.7666667
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.0666666
+        value: 0.10646573
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.2333333
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.4333334
+        value: 0.097884595
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.7333333
+        value: -0.016900577
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 3.8666666
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.1666665
+        value: 0.4262508
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.3333335
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.5333333
+        value: 0.014057457
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.766667
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4.9666667
+        value: 0.4262508
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.133333
+        value: 1.1366687
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.3333335
+        value: 0.06373282
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.633333
+        value: 0.10418309
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.766667
+        value: 0.9945851
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.0666666
+        value: 0.081628025
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.233333
+        value: 0.8417213
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.5
+        value: 0.12819868
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 6.766667
+        value: 0.38843375
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 0.004362285
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2241633746
+    path: Face_Eye
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2256264208
+    path: Face_Eye
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 20
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 20
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2334516028
+    path: Face_Eye
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 0.672008
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 0.672008
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1320326464
+    path: Face_Eye
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 0.5147058
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 0.5147058
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1588761920
+    path: Face_Eye
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1857197376
+    path: Face_Eye
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 0.672008
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 0.672008
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1320326464
+    path: Face
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 0.5147058
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 0.5147058
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1588761920
+    path: Face
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1857197376
+    path: Face
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2256264208
+    path: Face
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.6666666
+        value: 20
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.266667
+        value: 20
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.3333335
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2334516028
+    path: Face
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2125632832
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.4
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2113556524
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2125632832
+    path: Face_Eye
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 7.4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2125632832
+    path: Face
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 2073732236
+      attribute: 1320326464
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 1588761920
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 1857197376
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 2334516028
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 2256264208
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 2241633746
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 1308250156
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 1576685612
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 1845121068
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2770785369
+      attribute: 2241633746
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1589236012
+      attribute: 2241633746
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1589236012
+      attribute: 2256264208
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1589236012
+      attribute: 2334516028
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1589236012
+      attribute: 1320326464
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1589236012
+      attribute: 1588761920
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1589236012
+      attribute: 1857197376
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2770785369
+      attribute: 1320326464
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2770785369
+      attribute: 1588761920
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2770785369
+      attribute: 1857197376
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2770785369
+      attribute: 2256264208
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2770785369
+      attribute: 2334516028
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 2125632832
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 2113556524
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1589236012
+      attribute: 2125632832
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2770785369
+      attribute: 2125632832
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 3
+    m_StartTime: 0
+    m_StopTime: 7.3333335
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_Events: []
