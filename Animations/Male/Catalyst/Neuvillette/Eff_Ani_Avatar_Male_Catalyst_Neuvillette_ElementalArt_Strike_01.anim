@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Male_Catalyst_Neuvillette_ElementalArt_Strike_01
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.54373616, y: -0.4520521, z: -0.452052, w: -0.54373604}
+        inSlope: {x: 0.6176161, y: 0.77933633, z: 0.77933633, w: -0.6176161}
+        outSlope: {x: 0.6176161, y: 0.77933633, z: 0.77933633, w: -0.6176161}
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.56432337, y: -0.4260742, z: -0.42607412, w: -0.56432325}
+        inSlope: {x: 1.0571836, y: 1.5256426, z: 1.5256422, w: -1.0571836}
+        outSlope: {x: 1.0571836, y: 1.5256426, z: 1.5256422, w: -1.0571836}
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 0.6142151, y: -0.35034257, z: -0.3503425, w: -0.61421496}
+        inSlope: {x: 1.5796752, y: 2.9841337, z: 2.9841332, w: -1.5796752}
+        outSlope: {x: 1.5796752, y: 2.9841337, z: 2.9841332, w: -1.5796752}
+      - serializedVersion: 2
+        time: 0.10000001
+        value: {x: 0.66963506, y: -0.22713193, z: -0.22713189, w: -0.66963494}
+        inSlope: {x: 1.3493987, y: 4.290269, z: 4.290268, w: -1.3493987}
+        outSlope: {x: 1.3493987, y: 4.290269, z: 4.290268, w: -1.3493987}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.704175, y: -0.064324625, z: -0.06432462, w: -0.7041749}
+        inSlope: {x: 0.40750003, y: 5.211188, z: 5.211187, w: -0.40750003}
+        outSlope: {x: 0.40750003, y: 5.211188, z: 5.211187, w: -0.40750003}
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 0.6968017, y: 0.12028057, z: 0.12028055, w: -0.6968016}
+        inSlope: {x: -0.9691108, y: 5.488639, z: 5.488638, w: 0.9691099}
+        outSlope: {x: -0.9691108, y: 5.488639, z: 5.488638, w: 0.9691099}
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 0.6395676, y: 0.30158463, z: 0.30158457, w: -0.63956755}
+        inSlope: {x: -2.3364449, y: 5.0249467, z: 5.0249453, w: 2.3364446}
+        outSlope: {x: -2.3364449, y: 5.0249467, z: 5.0249453, w: 2.3364446}
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 0.54103875, y: 0.455277, z: 0.4552769, w: -0.54103863}
+        inSlope: {x: -3.245737, y: 3.9736264, z: 3.9736257, w: 3.245737}
+        outSlope: {x: -3.245737, y: 3.9736264, z: 3.9736257, w: 3.245737}
+      - serializedVersion: 2
+        time: 0.26666668
+        value: {x: 0.4231851, y: 0.5664931, z: 0.566493, w: -0.42318505}
+        inSlope: {x: -3.4105105, y: 2.676755, z: 2.6767547, w: 3.4105096}
+        outSlope: {x: -3.4105105, y: 2.676755, z: 2.6767547, w: 3.4105096}
+      - serializedVersion: 2
+        time: 0.3
+        value: {x: 0.31367135, y: 0.6337274, z: 0.63372725, w: -0.3136713}
+        inSlope: {x: -2.7730522, y: 1.4886619, z: 1.4886619, w: 2.7730522}
+        outSlope: {x: -2.7730522, y: 1.4886619, z: 1.4886619, w: 2.7730522}
+      - serializedVersion: 2
+        time: 0.33333334
+        value: {x: 0.23831497, y: 0.6657372, z: 0.6657371, w: -0.23831493}
+        inSlope: {x: -1.876277, y: 0.71651286, z: 0.71651286, w: 1.876277}
+        outSlope: {x: -1.876277, y: 0.71651286, z: 0.71651286, w: 1.876277}
+      - serializedVersion: 2
+        time: 0.36666667
+        value: {x: 0.18858622, y: 0.6814949, z: 0.6814948, w: -0.18858618}
+        inSlope: {x: -1.44945, y: 0.40543917, z: 0.40543917, w: 1.4494495}
+        outSlope: {x: -1.44945, y: 0.40543917, z: 0.40543917, w: 1.4494495}
+      - serializedVersion: 2
+        time: 0.4
+        value: {x: 0.14168498, y: 0.6927665, z: 0.69276637, w: -0.14168496}
+        inSlope: {x: -1.360517, y: 0.28206024, z: 0.28206024, w: 1.3605165}
+        outSlope: {x: -1.360517, y: 0.28206024, z: 0.28206024, w: 1.3605165}
+      - serializedVersion: 2
+        time: 0.43333334
+        value: {x: 0.097885095, y: 0.7002989, z: 0.7002988, w: -0.09788508}
+        inSlope: {x: -1.2650673, y: 0.18016578, z: 0.18016578, w: 1.2650672}
+        outSlope: {x: -1.2650673, y: 0.18016578, z: 0.18016578, w: 1.2650672}
+      - serializedVersion: 2
+        time: 0.46666667
+        value: {x: 0.057347167, y: 0.70477754, z: 0.7047774, w: -0.057347156}
+        inSlope: {x: -1.1661539, y: 0.097814806, z: 0.097814806, w: 1.1661538}
+        outSlope: {x: -1.1661539, y: 0.097814806, z: 0.097814806, w: 1.1661538}
+      - serializedVersion: 2
+        time: 0.5
+        value: {x: 0.020141501, y: 0.7068199, z: 0.7068198, w: -0.020141497}
+        inSlope: {x: -1.0661967, y: 0.032939315, z: 0.032939315, w: 1.0661964}
+        outSlope: {x: -1.0661967, y: 0.032939315, z: 0.032939315, w: 1.0661964}
+      - serializedVersion: 2
+        time: 0.53333336
+        value: {x: -0.0137326345, y: 0.7069735, z: 0.7069734, w: 0.013732633}
+        inSlope: {x: -0.967064, y: -0.016559051, z: -0.016559051, w: 0.9670639}
+        outSlope: {x: -0.967064, y: -0.016559051, z: -0.016559051, w: 0.9670639}
+      - serializedVersion: 2
+        time: 0.5666667
+        value: {x: -0.04432949, y: 0.70571595, z: 0.70571584, w: 0.044329483}
+        inSlope: {x: -0.87015706, y: -0.052733973, z: -0.052733973, w: 0.870157}
+        outSlope: {x: -0.87015706, y: -0.052733973, z: -0.052733973, w: 0.870157}
+      - serializedVersion: 2
+        time: 0.6000001
+        value: {x: -0.07174315, y: 0.7034579, z: 0.7034578, w: 0.071743146}
+        inSlope: {x: -0.77649415, y: -0.07753902, z: -0.07753902, w: 0.776494}
+        outSlope: {x: -0.77649415, y: -0.07753902, z: -0.07753902, w: 0.776494}
+      - serializedVersion: 2
+        time: 0.63333344
+        value: {x: -0.09609581, y: 0.7005467, z: 0.70054656, w: 0.09609579}
+        inSlope: {x: -0.68677557, y: -0.09279989, z: -0.09279989, w: 0.68677545}
+        outSlope: {x: -0.68677557, y: -0.09279989, z: -0.09279989, w: 0.68677545}
+      - serializedVersion: 2
+        time: 0.6666668
+        value: {x: -0.11752823, y: 0.6972712, z: 0.6972711, w: 0.117528215}
+        inSlope: {x: -0.60144764, y: -0.10019205, z: -0.10019205, w: 0.60144764}
+        outSlope: {x: -0.60144764, y: -0.10019205, z: -0.10019205, w: 0.60144764}
+      - serializedVersion: 2
+        time: 0.70000017
+        value: {x: -0.13619235, y: 0.6938672, z: 0.6938671, w: 0.13619234}
+        inSlope: {x: -0.52076966, y: -0.101232745, z: -0.101232745, w: 0.5207695}
+        outSlope: {x: -0.52076966, y: -0.101232745, z: -0.101232745, w: 0.5207695}
+      - serializedVersion: 2
+        time: 0.7333335
+        value: {x: -0.15224624, y: 0.6905224, z: 0.69052225, w: 0.1522462}
+        inSlope: {x: -0.44485518, y: -0.09727738, z: -0.09727738, w: 0.44485497}
+        outSlope: {x: -0.44485518, y: -0.09727738, z: -0.09727738, w: 0.44485497}
+      - serializedVersion: 2
+        time: 0.7666669
+        value: {x: -0.16584939, y: 0.68738204, z: 0.6873819, w: 0.16584936}
+        inSlope: {x: -0.37370762, y: -0.08952312, z: -0.08952312, w: 0.37370762}
+        outSlope: {x: -0.37370762, y: -0.08952312, z: -0.08952312, w: 0.37370762}
+      - serializedVersion: 2
+        time: 0.80000025
+        value: {x: -0.1771601, y: 0.68455416, z: 0.68455404, w: 0.17716007}
+        inSlope: {x: -0.30726755, y: -0.07901781, z: -0.07901781, w: 0.30726755}
+        outSlope: {x: -0.30726755, y: -0.07901781, z: -0.07901781, w: 0.30726755}
+      - serializedVersion: 2
+        time: 0.8333336
+        value: {x: -0.18633391, y: 0.6821142, z: 0.68211406, w: 0.18633388}
+        inSlope: {x: -0.24542817, y: -0.06666536, z: -0.06666536, w: 0.24542817}
+        outSlope: {x: -0.24542817, y: -0.06666536, z: -0.06666536, w: 0.24542817}
+      - serializedVersion: 2
+        time: 0.866667
+        value: {x: -0.19352199, y: 0.6801098, z: 0.6801097, w: 0.19352196}
+        inSlope: {x: -0.18805578, y: -0.053238228, z: -0.053238228, w: 0.18805578}
+        outSlope: {x: -0.18805578, y: -0.053238228, z: -0.053238228, w: 0.18805578}
+      - serializedVersion: 2
+        time: 0.90000033
+        value: {x: -0.19887097, y: 0.67856497, z: 0.67856485, w: 0.19887094}
+        inSlope: {x: -0.13501582, y: -0.03938821, z: -0.03938821, w: 0.13501582}
+        outSlope: {x: -0.13501582, y: -0.03938821, z: -0.03938821, w: 0.13501582}
+      - serializedVersion: 2
+        time: 0.9333337
+        value: {x: -0.20252305, y: 0.6774839, z: 0.6774838, w: 0.20252302}
+        inSlope: {x: -0.08618064, y: -0.025654415, z: -0.025654415, w: 0.08618042}
+        outSlope: {x: -0.08618064, y: -0.025654415, z: -0.025654415, w: 0.08618042}
+      - serializedVersion: 2
+        time: 0.96666706
+        value: {x: -0.20461635, y: 0.67685467, z: 0.67685455, w: 0.20461631}
+        inSlope: {x: -0.041425243, y: -0.012474982, z: -0.012474982, w: 0.041425243}
+        outSlope: {x: -0.041425243, y: -0.012474982, z: -0.012474982, w: 0.041425243}
+      - serializedVersion: 2
+        time: 1
+        value: {x: -0.20528473, y: 0.67665225, z: 0.67665213, w: 0.2052847}
+        inSlope: {x: -0.020051535, y: -0.006072592, z: -0.006072592, w: 0.020051982}
+        outSlope: {x: -0.020051535, y: -0.006072592, z: -0.006072592, w: 0.020051982}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: All/00_DNA_Trail_Bledn
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -1.94, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: -2.861023E-05, y: -1.9400042, z: 1.7166138E-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: All/00_DNA_Trail_Bledn
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1.0000008, z: 0.35283762}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 1.0000001, y: 1.0000008, z: 1.1408548}
+        inSlope: {x: 0, y: 0, z: 1.0758743}
+        outSlope: {x: 0, y: 0, z: 1.0758743}
+      - serializedVersion: 2
+        time: 1
+        value: {x: 1.0000001, y: 1.0000008, z: 1.428712}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: All/00_DNA_Trail_Bledn
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.x
+    path: All/WaveRing_Hight01
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.y
+    path: All/WaveRing_Hight01
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.z
+    path: All/WaveRing_Hight01
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.17
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -3.77
+        inSlope: -4.84
+        outSlope: -4.84
+      - serializedVersion: 2
+        time: 1
+        value: -5.01
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.w
+    path: All/WaveRing_Hight01
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Noise_Brightness
+    path: All/WaveRing_Hight01
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -2.92
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Noise_Brightness
+    path: All/WaveRing_Hight_Sky
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.x
+    path: All/03_WaveRing_Hight_Blend
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.9
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: -0.9
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1
+        value: -0.9
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.y
+    path: All/03_WaveRing_Hight_Blend
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.z
+    path: All/03_WaveRing_Hight_Blend
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.05
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.34
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0.63
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.w
+    path: All/03_WaveRing_Hight_Blend
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings: {}
+  m_Events: []
