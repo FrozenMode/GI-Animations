@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Lady_Pole_Shougun_Elf_Disappear00
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0003922, y: 1.0003922, z: 1.0003922}
+        inSlope: {x: -9.486028, y: -9.609662, z: -9.6583805}
+        outSlope: {x: -0.03971604, y: 0.04774474, z: 0.07676091}
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 1.3262756, y: 1.3262756, z: 1.3262756}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.35
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -1.718498, y: -3.1426852, z: -2.4886355}
+        outSlope: {x: -0.03971604, y: 0.04774474, z: 0.07676091}
+      - serializedVersion: 2
+        time: 0.41666666
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path:
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings: {}
+  m_Events: []

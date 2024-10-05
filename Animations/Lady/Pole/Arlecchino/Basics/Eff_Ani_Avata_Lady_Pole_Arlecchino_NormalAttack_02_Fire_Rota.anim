@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avata_Lady_Pole_Arlecchino_NormalAttack_02_Fire_Rota
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.2646023, y: -0.6945598, z: -0.3005392, w: 0.5977026}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.016666668
+        value: {x: 0.2646023, y: -0.6945598, z: -0.3005392, w: 0.5977026}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.2646023, y: -0.6945598, z: -0.3005392, w: 0.5977026}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.050000004
+        value: {x: 0.2646023, y: -0.6945598, z: -0.3005392, w: 0.5977026}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 0.2646023, y: -0.6945598, z: -0.3005392, w: 0.5977026}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.083333336
+        value: {x: 0.2646023, y: -0.6945598, z: -0.3005392, w: 0.5977026}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: 0.2646023, y: -0.6945598, z: -0.3005392, w: 0.5977026}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.11666667
+        value: {x: 0.2646023, y: -0.6945598, z: -0.3005392, w: 0.5977026}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.2646023, y: -0.6945598, z: -0.3005392, w: 0.5977026}
+        inSlope: {x: 0.67703074, y: 0.2706814, z: -0.58144844, w: -0.30437532}
+        outSlope: {x: 0.67703074, y: 0.2706814, z: -0.58144844, w: -0.30437532}
+      - serializedVersion: 2
+        time: 0.15
+        value: {x: 0.28717, y: -0.6855371, z: -0.3199208, w: 0.5875568}
+        inSlope: {x: 2.466194, y: 1.1153288, z: -2.1061807, w: -1.2245448}
+        outSlope: {x: 2.466194, y: 1.1153288, z: -2.1061807, w: -1.2245448}
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 0.34680876, y: -0.6573822, z: -0.3707452, w: 0.55688447}
+        inSlope: {x: 4.2726164, y: 2.3701878, z: -3.6088033, w: -2.51362}
+        outSlope: {x: 4.2726164, y: 2.3701878, z: -3.6088033, w: -2.51362}
+      - serializedVersion: 2
+        time: 0.18333334
+        value: {x: 0.42959052, y: -0.60653085, z: -0.44021425, w: 0.50376946}
+        inSlope: {x: 5.199254, y: 3.7930264, z: -4.3082495, w: -3.8725386}
+        outSlope: {x: 5.199254, y: 3.7930264, z: -4.3082495, w: -3.8725386}
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: 0.5201172, y: -0.530948, z: -0.5143535, w: 0.42779985}
+        inSlope: {x: 5.222839, y: 5.1885176, z: -4.201576, w: -5.1242685}
+        outSlope: {x: 5.222839, y: 5.1885176, z: -4.201576, w: -5.1242685}
+      - serializedVersion: 2
+        time: 0.21666667
+        value: {x: 0.60368514, y: -0.43358028, z: -0.5802668, w: 0.33296052}
+        inSlope: {x: 4.474325, y: 6.229722, z: -3.4359832, w: -5.9880567}
+        outSlope: {x: 4.474325, y: 6.229722, z: -3.4359832, w: -5.9880567}
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 0.6692614, y: -0.3232906, z: -0.6288863, w: 0.22819798}
+        inSlope: {x: 3.2485862, y: 6.6064672, z: -2.3039105, w: -6.2131596}
+        outSlope: {x: 3.2485862, y: 6.6064672, z: -2.3039105, w: -6.2131596}
+      - serializedVersion: 2
+        time: 0.25
+        value: {x: 0.71197134, y: -0.21336472, z: -0.6570638, w: 0.1258552}
+        inSlope: {x: 1.9337256, y: 6.1384068, z: -1.1693964, w: -5.6736326}
+        outSlope: {x: 1.9337256, y: 6.1384068, z: -1.1693964, w: -5.6736326}
+      - serializedVersion: 2
+        time: 0.26666668
+        value: {x: 0.73371893, y: -0.11867696, z: -0.6678662, w: 0.039076824}
+        inSlope: {x: 0.88137496, y: 4.805851, z: -0.34911603, w: -4.3840446}
+        outSlope: {x: 0.88137496, y: 4.805851, z: -0.34911603, w: -4.3840446}
+      - serializedVersion: 2
+        time: 0.28333336
+        value: {x: 0.74135053, y: -0.053169556, z: -0.668701, w: -0.020279732}
+        inSlope: {x: 0.2692096, y: 2.6932425, z: 0.0055736806, w: -2.4362793}
+        outSlope: {x: 0.2692096, y: 2.6932425, z: 0.0055736806, w: -2.4362793}
+      - serializedVersion: 2
+        time: 0.3
+        value: {x: 0.7426926, y: -0.028902179, z: -0.6676804, w: -0.04213251}
+        inSlope: {x: 0.080523565, y: 1.4560441, z: 0.06123668, w: -1.3111681}
+        outSlope: {x: 0.080523565, y: 1.4560441, z: 0.06123668, w: -1.3111681}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Rota/GameObject
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.04999964, y: 1.3599854, z: 0.41999996}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.04999964, y: 1.3599854, z: 0.41999996}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Rota/GameObject
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -2.597, y: -0.124, z: -0.012}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: -2.466, y: 0.61, z: 0.006}
+        inSlope: {x: 0.327275, y: 5.389091, z: 0.17999999}
+        outSlope: {x: 0.327275, y: 5.389091, z: 0.17999999}
+      - serializedVersion: 2
+        time: 0.18333334
+        value: {x: -2.451, y: 0.864, z: 0.021}
+        inSlope: {x: 0, y: 3.9800003, z: 0}
+        outSlope: {x: 0, y: 3.9800003, z: 0}
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: -2.787, y: 1.008, z: -0.11}
+        inSlope: {x: -7.41, y: 0.5399966, z: 0}
+        outSlope: {x: -7.41, y: 0.5399966, z: 0}
+      - serializedVersion: 2
+        time: 0.25
+        value: {x: -2.945, y: 1.017, z: -0.048}
+        inSlope: {x: -5.519998, y: 0.3599988, z: 1.9199988}
+        outSlope: {x: -5.519998, y: 0.3599988, z: 1.9199988}
+      - serializedVersion: 2
+        time: 0.26666668
+        value: {x: -2.991, y: 1.02, z: -0.032}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.3
+        value: {x: -2.532, y: 0.998, z: -0.098}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Rota/GameObject/Spark
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings: {}
+  m_Events: []

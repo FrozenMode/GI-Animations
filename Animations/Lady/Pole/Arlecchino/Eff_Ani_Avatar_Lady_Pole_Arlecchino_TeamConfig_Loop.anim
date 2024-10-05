@@ -1,0 +1,2979 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Lady_Pole_Arlecchino_TeamConfig_Loop
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.000433768, y: 0.22381999, z: -9.96131E-05, w: 0.97463036}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.000433768, y: 0.22381999, z: -9.96131E-05, w: 0.97463036}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BS/All/Eff_Model_Trail_Helix_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.5908687, y: -0.40649998, z: -0.59102297, w: 0.36922044}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: -0.5908687, y: -0.40649998, z: -0.59102297, w: 0.36922044}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BS/All/Eff_Model_Trail_Helix_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.13725527, y: -0.17679524, z: -0.59610885, w: -0.7710762}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: -0.13725527, y: -0.17679524, z: -0.59610885, w: -0.7710762}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BS/All/Eff_Model_Trail_Helix_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.6709448, y: -0.28940332, z: 0.40971538, w: -0.5460879}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: -0.6709448, y: -0.28940332, z: 0.40971538, w: -0.5460879}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BS/All/Eff_Model_Trail_Helix_05
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.055, y: 1.261, z: -0.309}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.055, y: 1.261, z: -0.309}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BS/All/Eff_Model_Trail_Helix_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.055, y: 1.261, z: -0.309}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: 0.055, y: 1.261, z: -0.309}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BS/All/Eff_Model_Trail_Helix_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.085, y: 1.177, z: 0.453}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: -0.085, y: 1.177, z: 0.453}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: BS/All/Eff_Model_Trail_Helix_05
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: BS
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: AS
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.a
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.x
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.y
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.z
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -2.2153397
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -2.2153397
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.w
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.017949844
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.017949844
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.r
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.020874616
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.020874616
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.g
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.029411793
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.029411793
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.b
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.a
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.04671277
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.04671277
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.r
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0541275
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.0541275
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.g
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.06617643
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.06617643
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.b
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.a
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.r
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.g
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.b
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.a
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.x
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.45
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -1.45
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.y
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.z
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.564005
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.564005
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.w
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 3
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 3
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._VertexAnimValue
+    path: BS/All/Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaBrightness
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaEdgeFade
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 2
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.x
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.y
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.83
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.83
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.z
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseTex_ST.w
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.009083053
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.009083053
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.r
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.010517848
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.010517848
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.g
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.014705896
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.014705896
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.b
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.a
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.06423007
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.06423007
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.r
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.070573784
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.070573784
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.g
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.08088232
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.08088232
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.b
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.a
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.r
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.g
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.b
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.a
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._VertexAnimValue
+    path: BS/All/Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaBrightness
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._AlphaEdgeFade
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.045415193
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.045415193
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.r
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.052589163
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.052589163
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.g
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.073529385
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.073529385
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.b
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.a
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02184258
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.02184258
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.r
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.024726093
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.024726093
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.g
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.029411793
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.029411793
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.b
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.a
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.r
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.g
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.b
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.a
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.x
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.y
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.z
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.3
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.3
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.w
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._VertexAnimValue
+    path: BS/All/Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.x
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.y
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.z
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -2.2153397
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -2.2153397
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.w
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.16911757
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.16911757
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.r
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.014922149
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.014922149
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.g
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.014922149
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.014922149
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.b
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.a
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.38970584
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.38970584
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.r
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.g
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.b
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.a
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.r
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.g
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.b
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.x
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.45
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -1.45
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.y
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.z
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.564005
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.564005
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.w
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.9920502
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 2.9920502
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._VertexAnimValue
+    path: BS/All/Eff_Model_Trail_Helix_04
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.4
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.4
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.x
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.y
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.z
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.03
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.03
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._DissolveTex_ST.w
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.r
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.016806804
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.016806804
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.g
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.044117577
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.044117577
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.b
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorDark.a
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.r
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.21323526
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.21323526
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.g
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.21323526
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.21323526
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.b
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.a
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.r
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.g
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.b
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.a
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.x
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.45
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -1.45
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.y
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.z
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.05
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.05
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MaskTex_ST.w
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.61
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 2.61
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._VertexAnimValue
+    path: BS/All/Eff_Model_Trail_Helix_05
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 1911832374
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1524198645
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1970013738
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 60421538
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 328856994
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 597292450
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 865727906
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1167930355
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1436365811
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1704801267
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1973236723
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1174353227
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1442788683
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1711224139
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1979659595
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1164707370
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1433142826
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1701578282
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 1970013738
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 163956685
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 432392141
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 700827597
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 969263053
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2617655270
+      attribute: 2343864719
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 2406598741
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 2347307705
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 150071069
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 418506525
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 686941981
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 955377437
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1167930355
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1436365811
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1704801267
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1973236723
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1174353227
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1442788683
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1711224139
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1979659595
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1164707370
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1433142826
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1701578282
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 1970013738
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 84897372
+      attribute: 2343864719
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 2406598741
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 2347307705
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1167930355
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1436365811
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1704801267
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1973236723
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1174353227
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1442788683
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1711224139
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1979659595
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1164707370
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1433142826
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1701578282
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 1970013738
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 163956685
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 432392141
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 700827597
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 969263053
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1913151178
+      attribute: 2343864719
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 60421538
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 328856994
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 597292450
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 865727906
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1167930355
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1436365811
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1704801267
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1973236723
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1174353227
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1442788683
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1711224139
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1979659595
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1164707370
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1433142826
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 1701578282
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 163956685
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 432392141
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 700827597
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 969263053
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3966552937
+      attribute: 2343864719
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 60421538
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 328856994
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 597292450
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 865727906
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1167930355
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1436365811
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1704801267
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1973236723
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1174353227
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1442788683
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1711224139
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1979659595
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1164707370
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1433142826
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1701578282
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 1970013738
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 163956685
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 432392141
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 700827597
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 969263053
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2607545343
+      attribute: 2343864719
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 3
+    m_StartTime: 0
+    m_StopTime: 0.1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_Events: []

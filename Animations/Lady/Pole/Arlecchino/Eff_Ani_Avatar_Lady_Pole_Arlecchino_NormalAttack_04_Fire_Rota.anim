@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Lady_Pole_Arlecchino_NormalAttack_04_Fire_Rota
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0, y: -0.12251028, z: -0, w: -0.9924672}
+        inSlope: {x: 0, y: -9.717335, z: 0, w: 2.026863}
+        outSlope: {x: 0, y: -9.717335, z: 0, w: 2.026863}
+      - serializedVersion: 2
+        time: 0.016666668
+        value: {x: -0, y: -0.28446588, z: -0, w: -0.9586862}
+        inSlope: {x: 0, y: -9.483755, z: 0, w: 2.8140645}
+        outSlope: {x: 0, y: -9.483755, z: 0, w: 2.8140645}
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0, y: -0.43863547, z: -0, w: -0.8986651}
+        inSlope: {x: 0, y: -8.890001, z: 0, w: 4.339181}
+        outSlope: {x: 0, y: -8.890001, z: 0, w: 4.339181}
+      - serializedVersion: 2
+        time: 0.050000004
+        value: {x: -0, y: -0.5807993, z: -0, w: -0.8140468}
+        inSlope: {x: 0, y: -8.0529175, z: 0, w: 5.745526}
+        outSlope: {x: 0, y: -8.0529175, z: 0, w: 5.745526}
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: -0, y: -0.70706606, z: -0, w: -0.70714754}
+        inSlope: {x: 0, y: -6.9954195, z: 0, w: 6.994615}
+        outSlope: {x: 0, y: -6.9954195, z: 0, w: 6.994615}
+      - serializedVersion: 2
+        time: 0.083333336
+        value: {x: -0, y: -0.8139799, z: -0, w: -0.580893}
+        inSlope: {x: 0, y: -5.746456, z: 0, w: 8.0522585}
+        outSlope: {x: 0, y: -5.746456, z: 0, w: 8.0522585}
+      - serializedVersion: 2
+        time: 0.1
+        value: {x: -0, y: -0.8986146, z: -0, w: -0.43873894}
+        inSlope: {x: 0, y: -4.3402042, z: 0, w: 8.889502}
+        outSlope: {x: 0, y: -4.3402042, z: 0, w: 8.889502}
+      - serializedVersion: 2
+        time: 0.11666667
+        value: {x: -0, y: -0.9586534, z: -0, w: -0.28457627}
+        inSlope: {x: 0, y: -2.815157, z: 0, w: 9.483431}
+        outSlope: {x: 0, y: -2.815157, z: 0, w: 9.483431}
+      - serializedVersion: 2
+        time: 0.13333334
+        value: {x: -0, y: -0.99245316, z: -0, w: -0.12262453}
+        inSlope: {x: 0, y: -1.2130573, z: 0, w: 9.8178005}
+        outSlope: {x: 0, y: -1.2130573, z: 0, w: 9.8178005}
+      - serializedVersion: 2
+        time: 0.15
+        value: {x: -0, y: -0.99908864, z: -0, w: 0.042683788}
+        inSlope: {x: 0, y: 0.42224592, z: 0, w: 9.88344}
+        outSlope: {x: 0, y: 0.42224592, z: 0, w: 9.88344}
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: -0, y: -0.9783783, z: -0, w: 0.20682345}
+        inSlope: {x: 0, y: 2.045991, z: 0, w: 9.678556}
+        outSlope: {x: 0, y: 2.045991, z: 0, w: 9.678556}
+      - serializedVersion: 2
+        time: 0.18333334
+        value: {x: -0, y: -0.93088895, z: -0, w: 0.36530232}
+        inSlope: {x: 0, y: 3.6137352, z: 0, w: 9.208773}
+        outSlope: {x: 0, y: 3.6137352, z: 0, w: 9.208773}
+      - serializedVersion: 2
+        time: 0.2
+        value: {x: -0, y: -0.85792047, z: -0, w: 0.5137825}
+        inSlope: {x: 0, y: 5.0825663, z: 0, w: 8.486933}
+        outSlope: {x: 0, y: 5.0825663, z: 0, w: 8.486933}
+      - serializedVersion: 2
+        time: 0.21666667
+        value: {x: -0, y: -0.7614701, z: -0, w: 0.64820004}
+        inSlope: {x: 0, y: 6.4122877, z: 0, w: 7.532806}
+        outSlope: {x: 0, y: 6.4122877, z: 0, w: 7.532806}
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: -0, y: -0.64417756, z: -0, w: 0.764876}
+        inSlope: {x: 0, y: 7.566503, z: 0, w: 6.3725}
+        outSlope: {x: 0, y: 7.566503, z: 0, w: 6.3725}
+      - serializedVersion: 2
+        time: 0.25
+        value: {x: -0, y: -0.5092533, z: -0, w: 0.8606167}
+        inSlope: {x: 0, y: 8.513613, z: 0, w: 5.0377665}
+        outSlope: {x: 0, y: 8.513613, z: 0, w: 5.0377665}
+      - serializedVersion: 2
+        time: 0.26666668
+        value: {x: -0, y: -0.36039037, z: -0, w: 0.9328016}
+        inSlope: {x: 0, y: 9.2276945, z: 0, w: 3.5651445}
+        outSlope: {x: 0, y: 9.2276945, z: 0, w: 3.5651445}
+      - serializedVersion: 2
+        time: 0.28333336
+        value: {x: -0, y: -0.20166326, z: -0, w: 0.97945493}
+        inSlope: {x: 0, y: 9.689209, z: 0, w: 1.9949431}
+        outSlope: {x: 0, y: 9.689209, z: 0, w: 1.9949431}
+      - serializedVersion: 2
+        time: 0.30000004
+        value: {x: -0, y: -0.037416454, z: -0, w: 0.99929976}
+        inSlope: {x: 0, y: 9.885523, z: 0, w: 0.37013918}
+        outSlope: {x: 0, y: 9.885523, z: 0, w: 0.37013918}
+      - serializedVersion: 2
+        time: 0.31666672
+        value: {x: -0, y: 0.12785447, z: -0, w: 0.9917929}
+        inSlope: {x: 0, y: 9.81127, z: 0, w: -1.2647964}
+        outSlope: {x: 0, y: 9.81127, z: 0, w: -1.2647964}
+      - serializedVersion: 2
+        time: 0.3333334
+        value: {x: -0, y: 0.28962612, z: -0, w: 0.95713985}
+        inSlope: {x: 0, y: 9.468459, z: 0, w: -2.86511}
+        outSlope: {x: 0, y: 9.468459, z: 0, w: -2.86511}
+      - serializedVersion: 2
+        time: 0.35000008
+        value: {x: -0, y: 0.44347003, z: -0, w: 0.89628917}
+        inSlope: {x: 0, y: 8.866478, z: 0, w: -4.3869915}
+        outSlope: {x: 0, y: 8.866478, z: 0, w: -4.3869915}
+      - serializedVersion: 2
+        time: 0.36666667
+        value: {x: -0, y: 0.58517486, z: -0, w: 0.8109071}
+        inSlope: {x: 0, y: 8.502328, z: 0, w: -5.122946}
+        outSlope: {x: 0, y: 8.502328, z: 0, w: -5.122946}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 002
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings: {}
+  m_Events: []

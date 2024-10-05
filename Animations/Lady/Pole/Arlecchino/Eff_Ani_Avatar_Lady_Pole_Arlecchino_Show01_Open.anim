@@ -1,0 +1,1206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Lady_Pole_Arlecchino_Show01_Open
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Die
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Loop
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: path_421170763
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.41666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.45
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1166666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.4333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1166666
+        value: 0.6784314
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.a
+    path: Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.4333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.0666666
+        value: 0.2901961
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.a
+    path: Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.4333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.9833333
+        value: 0.2901961
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.a
+    path: Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.4166666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Eff_Model_Trail_Helix_02
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.4166666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Eff_Model_Trail_Helix_01
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.4166666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Eff_Model_Trail_Helix_03
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.016666668
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1166666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: typetree_3305885265
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.41666666
+        value: 3.43
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 1.1158662
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1166666
+        value: 0.5099485
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2343864719
+    path: path_421170763
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.41666666
+        value: 3.43
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 1.1158662
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1166666
+        value: 0.5099485
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._VertexAnimValue
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 3
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 3
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2237670731
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.605
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 2.605
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1198036809
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.2298529
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0.2298529
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1466472265
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.4755567
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0.4755567
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1734907721
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2003343177
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 4.998002
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 4.998002
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1314495101
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.184725
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 2.184725
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1582930557
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9187501
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0.9187501
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.1851366013
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material.2119801469
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.r
+    path: Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.g
+    path: Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.b
+    path: Eff_Model_Trail_Helix_01
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.r
+    path: Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.g
+    path: Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.b
+    path: Eff_Model_Trail_Helix_03
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.r
+    path: Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.g
+    path: Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainColor.b
+    path: Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.044117577
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0.044117577
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.r
+    path: Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.g
+    path: Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.b
+    path: Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._LerpColorLight.a
+    path: Eff_Model_Trail_Helix_02
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 30
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 30
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._SkillEmisssionPower
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 30
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 30
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._SkillEmissionScaler
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._SkillEmisssionColor.r
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._SkillEmisssionColor.g
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._SkillEmisssionColor.b
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._SkillEmisssionColor.a
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 8.2
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 2.1333334
+        value: 8.2
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionScaler
+    path: SkillObj_Arlecchino_Chair_Model
+    classID: 137
+    script: {fileID: 0}
+    flags: 0
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 20298039
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 23966416
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 421170763
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 421170763
+      attribute: 2343864719
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 2343864719
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1430992911
+      attribute: 1970013738
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3141884195
+      attribute: 1970013738
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3426904501
+      attribute: 1970013738
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3426904501
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1430992911
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3141884195
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 3305885265
+      script: {fileID: 0}
+      classID: 137
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 2237670731
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 1198036809
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 1466472265
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 1734907721
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 2003343177
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 1314495101
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 1582930557
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 1851366013
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 2119801469
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1430992911
+      attribute: 1164707370
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1430992911
+      attribute: 1433142826
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1430992911
+      attribute: 1701578282
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3141884195
+      attribute: 1164707370
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3141884195
+      attribute: 1433142826
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3141884195
+      attribute: 1701578282
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3426904501
+      attribute: 1164707370
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3426904501
+      attribute: 1433142826
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3426904501
+      attribute: 1701578282
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3426904501
+      attribute: 1174353227
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3426904501
+      attribute: 1442788683
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3426904501
+      attribute: 1711224139
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3426904501
+      attribute: 1979659595
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 2364333026
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 2345925817
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 1093702315
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 1362137771
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 1630573227
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 1899008683
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    - path: 2042694249
+      attribute: 2359210816
+      script: {fileID: 0}
+      classID: 137
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 3
+    m_StartTime: 0
+    m_StopTime: 2.1166666
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_Events: []
