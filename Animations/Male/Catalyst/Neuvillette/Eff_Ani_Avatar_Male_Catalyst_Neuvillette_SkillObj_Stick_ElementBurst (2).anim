@@ -1,0 +1,460 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_Name: Eff_Ani_Avatar_Male_Catalyst_Neuvillette_SkillObj_Stick_ElementBurst
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 5.1
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 5.116667
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Die
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 1.8
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: SkillObj_Neuvillette_Stick_Model_White
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 5.1
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 5.116667
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 0.48772705
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.r
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 0.56393325
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.g
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 0.71323526
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.b
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.a
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 0.53676474
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.71666664
+        value: 0.53676474
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._ElementRimColor.r
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 0.7508114
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.71666664
+        value: 0.7508114
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._ElementRimColor.g
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.71666664
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._ElementRimColor.b
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.71666664
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._ElementRimColor.a
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.15
+        value: 2
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.26666668
+        value: 7
+        inSlope: 18.423998
+        outSlope: 18.423998
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionScaler1
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.71666664
+        value: 1
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionStrengthLerp
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.15
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 3
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 0.71666664
+        value: 3
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._HitColorFresnelPower
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.01
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MHYZBias
+    path: SkillObj_Neuvillette_Stick_Model/01_ShineRay_RainbowGlow_0.01
+    classID: 199
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 0.6166667
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: SkillObj_Neuvillette_Stick_Model/Point light
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 4
+        value: 6
+        inSlope: 0
+        outSlope: 0
+      - serializedVersion: 2
+        time: 5.116667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Emission_ADD_Scale
+    path: SkillObj_Neuvillette_Stick_Model
+    classID: 23
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 5.1
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 5.116667
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Audio_Stick
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: ∞
+        outSlope: ∞
+      - serializedVersion: 2
+        time: 4
+        value: 1
+        inSlope: ∞
+        outSlope: ∞
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Audio_Stick_Around
+    classID: 1
+    script: {fileID: 0}
+    flags: 0
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings: {}
+  m_Events: []
